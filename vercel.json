@@ -1,1 +1,1 @@
-{"name":"tool-picks","framework":null}
+{"version":2,"builds":[{"src":"**/*","use":"@vercel/static"}]}
